@@ -1,4 +1,4 @@
-name: "Rebuild Armbian"
+name: "Rebuild Armbian ChromeOS"
 author: "https://github.com/armbian"
 description: "Build Armbian Linux"
 inputs:
